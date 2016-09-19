@@ -1,0 +1,6 @@
+c:\users\maurits\documents\visual studio 2015\Projects\Telephonebook\Telephonebook\bin\Debug\Telephonebook.exe.config
+C:\Users\Maurits\Documents\Visual Studio 2015\Projects\Telephonebook\Telephonebook\bin\Debug\Telephonebook.exe
+C:\Users\Maurits\Documents\Visual Studio 2015\Projects\Telephonebook\Telephonebook\bin\Debug\Telephonebook.pdb
+C:\Users\Maurits\Documents\Visual Studio 2015\Projects\Telephonebook\Telephonebook\obj\Debug\Telephonebook.csprojResolveAssemblyReference.cache
+C:\Users\Maurits\Documents\Visual Studio 2015\Projects\Telephonebook\Telephonebook\obj\Debug\Telephonebook.exe
+C:\Users\Maurits\Documents\Visual Studio 2015\Projects\Telephonebook\Telephonebook\obj\Debug\Telephonebook.pdb
